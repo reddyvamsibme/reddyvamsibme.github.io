@@ -121,9 +121,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Linked_in"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/reddy-vamsi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/vamsireddy.vamsi/"
@@ -138,6 +138,9 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/reddy_vamsi_chowdary/"
+    - label: "Research Gate"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.instagram.com/reddy_vamsi_chowdary/"
 
 
