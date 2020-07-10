@@ -117,15 +117,18 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/reddy_vamsi_chowdary/"
+    - label: "Research Gate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.instagram.com/reddy_vamsi_chowdary/"
 
 # Site Footer
 footer:
   links:
-    - label: "Linked_in"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/reddy-vamsi"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      #icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/vamsireddy.vamsi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -138,10 +141,11 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/reddy_vamsi_chowdary/"
+      #url: "https://www.instagram.com/reddy_vamsi_chowdary/"
     - label: "Research Gate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.instagram.com/reddy_vamsi_chowdary/"
+
 
 
 # Reading Files
