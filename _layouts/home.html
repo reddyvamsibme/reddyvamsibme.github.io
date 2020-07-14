@@ -1,19 +1,39 @@
 ---
 layout: archive
+
+header:
+image: /assets/images/header.jpg
+
 ---
 
-{{ content }}
+<div class="page-content" style="text-align: justify">
+  <h4 style="font-size: 0.685em;"><strong>About Me</strong></h4>
+  <p style="font-size: 0.65em;">
+    Hello, I am Vamsi Reddy, a Biomedical Engineering Grad Student at Johns Hopkins University, Baltimore, MD, USA.
+  </p>
+  <p style="font-size: 0.65em;">
+    I am inclined to medical devices and biomedical technologies including but not limited to areas such as instrumentation, optical imaging, signal, and image processing. I can also contribute with my skills in computation and mathematical analysis using both statistical and machine learning tools.
+  </p>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+  <h4 style="font-size: 0.685em;"><strong>Education</strong></h4>
+  <div style="font-size: 0.65em;">
+    <a href="https://isi.jhu.edu/">
+      <img src="/assets/images/hopkins.png" alt="Hopkins" width="64" height="64">
+    </a>
+    <strong>Aug 2019</strong> Information Security at Johns Hopkins in Baltimore, Maryland.
+  </div>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+  <div style="font-size: 0.65em;">
+    <a href="https://www.netskope.com/netskope-threat-labs">
+      <img src="/assets/images/netskope.png" alt="Netskope" width="64" height="64">
+    </a>
+    <strong>Jan 2017</strong> Software Engineer in Threat Research Labs at Netskope in Bengaluru.
+  </div>
 
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
+  <div style="font-size: 0.65em;">
+    <a href="https://vit.ac.in/">
+      <img src="/assets/images/vit.jpeg" alt="VIT" width="64" height="64">
+    </a>
+    <strong>Jun 2013</strong> Studied B.Tech in Computer Science at VIT in Vellore, India.
+  </div>
+</div>
