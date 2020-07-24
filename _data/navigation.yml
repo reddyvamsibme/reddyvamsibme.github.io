@@ -2,7 +2,7 @@
 main:
   - title: "Recent Posts"
     url: /year-archive/
-  - title: "About"
-    url: /about/
+  - title: "Collection Archive"
+    url: /collection-archive/
   - title: "Posts by Category"
     url: /categories/
