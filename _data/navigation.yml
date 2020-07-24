@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Latest Feed"
+  - title: "Recent Posts"
     url: /year-archive/
-  - title: "Biomedical Projects"
+  - title: "Collection Archive"
     url: /collection-archive/
-  - title: "Fun in Life"
-    url: /sitemap/
+  - title: "Posts by Category"
+    url: /categories/
