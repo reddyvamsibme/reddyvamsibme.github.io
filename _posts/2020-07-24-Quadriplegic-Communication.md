@@ -1,7 +1,4 @@
 ---
-header:
-
-  
 layout: single
 classes: wide
 categories:
