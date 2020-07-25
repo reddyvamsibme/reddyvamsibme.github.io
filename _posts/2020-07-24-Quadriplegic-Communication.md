@@ -10,7 +10,7 @@ tags:
   - Instrumentation
   - Bio-Feedback
   - Biomedicalsensors
-  -motion-artifacts
+  - motion-artifacts
 ---
 
 
